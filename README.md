@@ -66,3 +66,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+All we used:
+1. Router- npm install react-router-dom and import all stuff
+   can go to reactrouter.com
+
+2. Links
+
+3. Material UI.com
+
+4. React context API
+
+5. npm i react-currency-format //format all pricing into correct standard we need
